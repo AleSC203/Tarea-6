@@ -1,0 +1,56 @@
+.formulario-container {
+    max-width: 500px;
+    margin: 60px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.formulario-container2 {
+    max-width: 800px;
+    margin: 60px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    text-align: center;
+}
+
+#tablaCreditoProyeccion {
+    max-width: 1000px;
+}
+
+.form-control:focus {
+    border-color: #7e9c6f;
+    box-shadow: 0 0 0 0.2rem rgba(126, 156, 111, 0.25);
+}
+
+.btn-personalizado {
+    background-color: #2eca6a;
+    color: white;
+    border: none;
+}
+
+.btn-personalizado:hover {
+    background-color: #61e995;
+}
+
+.ocultar {
+    display: none;
+}
+
+.tablaCredito {
+    border: 2px solid black;
+    width: 100%;
+    max-width: 500px;
+    background-color: #f6f6ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.tablaCredito th {
+    background-color: #003366;
+    color: white;
+    padding: 10px;
+}
